@@ -40,4 +40,9 @@
 .similarComponents {
   display:flex;
 justify-content:space-between;
+border-left: 6px solid blueviolet;
+border-style: groove;
+border-color: blue;
+padding: 0.01em 16px;
+display: block;
 }
