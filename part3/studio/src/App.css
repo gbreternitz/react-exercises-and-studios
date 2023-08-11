@@ -45,3 +45,7 @@
 .imageUpdates {
   object-fit: contain;
 }
+
+.currentNote {
+  background-color: lightblue;
+}
